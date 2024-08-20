@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "type": "Buyer/Seller",
+      "name": "Mr. John Doe",
+      "location": "123 Maple St, Springfield, IL",
+      "need": "Looking to buy a 3-bedroom house.",
+      "remarks": "Prefers a quiet neighborhood with good schools.",
+      "id": "ba03"
+    },
+    {
+      "type": "Rental",
+      "name": "Ms. Jane Smith",
+      "location": "456 Oak Ave, Denver, CO",
+      "need": "Needs a short-term rental for 6 months.",
+      "remarks": "Interested in fully furnished apartments.",
+      "id": "e250"
+    },
+    {
+      "type": "Buyer/Seller",
+      "name": "Dr. Emily Brown",
+      "location": "789 Pine Rd, Austin, TX",
+      "need": "Selling a 2-bedroom condo downtown.",
+      "remarks": "Wants to move quickly, open to negotiations.",
+      "id": "f86e"
+    },
+    {
+      "type": "Rental",
+      "name": "Mr. Michael Johnson",
+      "location": "321 Birch Ln, Seattle, WA",
+      "need": "Searching for a pet-friendly rental.",
+      "remarks": "Requires a large backyard for pets.",
+      "id": "aa0e"
+    },
+    {
+      "type": "Buyer/Seller",
+      "name": "Mrs. Sarah Lee",
+      "location": "654 Cedar Blvd, Miami, FL",
+      "need": "Looking to downsize to a smaller home.",
+      "remarks": "Wants a place close to the beach.",
+      "id": "8632"
+    },
+    {
+      "id": "7a5e",
+      "type": "Rental",
+      "name": "Hemant Kumar Sachdev ",
+      "location": "Faridabaad",
+      "need": "3 Bhk with parking facility",
+      "remarks": "1st floor will be a great option",
+      "email": "hem004@gmail.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": "68d7",
+      "type": "Buyer/Seller",
+      "name": "Hemant",
+      "location": "Faridabaad",
+      "need": "3 Bhk with parking facility",
+      "remarks": "1st floor will be a great option",
+      "email": "hem004@gmail.com",
+      "phone": "9876543210"
+    }
+  ]
+}
